@@ -69,7 +69,7 @@ Draws a button and returns its rectangle.
 #### `main_menu()`
 Displays the main menu and waits for the player to start the game.
 
-#### `main()`
+`main()`
 Main game loop handling game logic, player movement, AI control, and timing.
 
 ## How to Play
