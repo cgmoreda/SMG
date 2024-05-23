@@ -1,0 +1,2 @@
+# SMG
+Simple Maze Game
