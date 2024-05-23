@@ -45,31 +45,31 @@ Simple Maze Game is a Python-based game that generates a maze using the Depth-Fi
 
 ## Functions
 
-### `generate_maze(rows, cols)`
+#### `generate_maze(rows, cols)`
 Generates a maze using Depth-First Search.
 
-### `heuristic(a, b)`
+#### `heuristic(a, b)`
 Calculates the Manhattan distance between two points.
 
-### `a_star_search(maze, start, goal)`
+#### `a_star_search(maze, start, goal)`
 Implements the A* pathfinding algorithm to find the shortest path in the maze.
 
-### `draw_maze(maze)`
+#### `draw_maze(maze)`
 Draws the maze on the screen.
 
-### `draw_path(path)`
+#### `draw_path(path)`
 Draws the path found by the A* algorithm.
 
 ### `draw_text(text, font, color, surface, x, y)`
 Displays text on the screen.
 
-### `draw_button(text, font, color, surface, x, y, width, height)`
+#### `draw_button(text, font, color, surface, x, y, width, height)`
 Draws a button and returns its rectangle.
 
-### `main_menu()`
+#### `main_menu()`
 Displays the main menu and waits for the player to start the game.
 
-### `main()`
+#### `main()`
 Main game loop handling game logic, player movement, AI control, and timing.
 
 ## How to Play
